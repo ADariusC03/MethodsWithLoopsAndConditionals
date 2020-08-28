@@ -1,0 +1,13 @@
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\obj\Debug\netcoreapp3.1\MethodsandLoops Exercise.csprojAssemblyReference.cache
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\obj\Debug\netcoreapp3.1\MethodsandLoops Exercise.AssemblyInfoInputs.cache
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\obj\Debug\netcoreapp3.1\MethodsandLoops Exercise.AssemblyInfo.cs
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\obj\Debug\netcoreapp3.1\MethodsandLoops Exercise.csproj.CoreCompileInputs.cache
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\bin\Debug\netcoreapp3.1\MethodsandLoops Exercise.exe
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\bin\Debug\netcoreapp3.1\MethodsandLoops Exercise.deps.json
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\bin\Debug\netcoreapp3.1\MethodsandLoops Exercise.runtimeconfig.json
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\bin\Debug\netcoreapp3.1\MethodsandLoops Exercise.runtimeconfig.dev.json
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\bin\Debug\netcoreapp3.1\MethodsandLoops Exercise.dll
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\bin\Debug\netcoreapp3.1\MethodsandLoops Exercise.pdb
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\obj\Debug\netcoreapp3.1\MethodsandLoops Exercise.dll
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\obj\Debug\netcoreapp3.1\MethodsandLoops Exercise.pdb
+C:\Users\adari\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\MethodsandLoops Exercise\obj\Debug\netcoreapp3.1\MethodsandLoops Exercise.genruntimeconfig.cache
